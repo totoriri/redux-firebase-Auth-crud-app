@@ -2,6 +2,9 @@
 
 /config/*.json
 
+#うまくいかなかったからuntrackにしとこ。
+/src/store/plugins/*.js
+
 # dependencies
 /node_modules
 /.pnp

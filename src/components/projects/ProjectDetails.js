@@ -1,5 +1,5 @@
 import React from 'react'
-import ProjectSummary from './ProjectSummary'
+// import ProjectSummary from './ProjectSummary'
 
 const ProjectDetails = (props) => {
     const id = props.match.params.id;
